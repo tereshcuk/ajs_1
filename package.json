@@ -1,0 +1,24 @@
+{
+  "name": "@tereshcuk/ajs_1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/tereshcuk/ajs_1#readme",
+  "bugs": {
+    "url": "https://github.com/tereshcuk/ajs_1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tereshcuk/ajs_1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@tereshcuk/ajs": "^1.0.0"
+  }
+}
